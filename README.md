@@ -41,12 +41,8 @@ Term Deposit
 
 ```
 ├── README.md
-├── Data 
-│   ├── bank-full.csv
-│
 ├── model_pickle
 │    
-├── Classification Capstone Project 3 Report.pdf
 │
 ├── Classification_Capstone_Project_3.ipynb
 │   ├── Project Summary
@@ -65,7 +61,12 @@ Term Deposit
 │   ├── Model building using above results
 │   ├── Finding Most Important Features Of Classification
 │   ├── Plotting Confusion Matrix
-
+│
+│
+├── Classification Capstone Project 3 Report.pdf
+│
+├── Data 
+│   ├── bank-full.csv
 
 ```
 
